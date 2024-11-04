@@ -1,17 +1,5 @@
 # @distube/ytdl-core
 
-DisTube fork of `ytdl-core`. This fork is dedicated to fixing bugs and adding features that are not merged into the original repo as soon as possible.
-
-<a href='https://ko-fi.com/skick' target='_blank'><img height='48' src='https://storage.ko-fi.com/cdn/kofi3.png' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-## Installation
-
-```bash
-npm install @distube/ytdl-core@latest
-```
-
-Make sure you're installing the latest version of `@distube/ytdl-core` to keep up with the latest fixes.
-
 ## Usage
 
 ```js
